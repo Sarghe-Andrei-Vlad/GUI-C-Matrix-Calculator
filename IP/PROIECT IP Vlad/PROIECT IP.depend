@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1608752819 source:d:\facultate\proiect ip\main.cpp
+	"functiiM.h"
+	"functiiV.h"
+	"interfata.h"
+	<winbgim.h>
+	<graphics.h>
+	<iostream>
+	<winbgim.h>
+
+1608236198 d:\facultate\proiect ip\functiim.h
+
+1608027740 source:d:\facultate\proiect ip\functiim.cpp
+	"functiiM.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1608028490 d:\facultate\proiect ip\functiiv.h
+
+1607963664 source:d:\facultate\proiect ip\functiiv.cpp
+	"functiiV.h"
+	<iostream>
+	<fstream>
+
+1608659857 source:d:\facultate\proiect ip\interfata.cpp
+	<iostream>
+	<stdio.h>
+	<winbgim.h>
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+
+1608236220 d:\facultate\proiect ip\interfata.h
+
+1610784013 source:d:\facultate\ip\proiect ip\functiim.cpp
+	"functiiM.h"
+	"citiri.h"
+	<winbgim.h>
+	<fstream>
+
+1610784013 d:\facultate\ip\proiect ip\functiim.h
+
+1610784073 source:d:\facultate\ip\proiect ip\functiiv.cpp
+	"functiiV.h"
+	"citiri.h"
+	<graphics.h>
+
+1610784331 d:\facultate\ip\proiect ip\functiiv.h
+
+1610783384 source:d:\facultate\ip\proiect ip\interfata.cpp
+	"interfata.h"
+	"citiri.h"
+	<graphics.h>
+
+1610783147 source:d:\facultate\ip\proiect ip\main.cpp
+	"interfata.h"
+	<graphics.h>
+	<MMSystem.h>
+
+1610783384 d:\facultate\ip\proiect ip\interfata.h
+
+1610778717 source:d:\facultate\ip\proiect ip\citiri.cpp
+	"citiri.h"
+	<winbgim.h>
+	<fstream>
+
+1610778717 d:\facultate\ip\proiect ip\citiri.h
+	"functiiV.h"
+	"functiiM.h"
+
+1610794502 source:d:\facultate\ip\proiect ip vlad\citiri.cpp
+	"citiri.h"
+	<winbgim.h>
+	<fstream>
+
+1610778717 d:\facultate\ip\proiect ip vlad\citiri.h
+	"functiiV.h"
+	"functiiM.h"
+
+1610784331 d:\facultate\ip\proiect ip vlad\functiiv.h
+
+1610784013 d:\facultate\ip\proiect ip vlad\functiim.h
+
+1610794900 source:d:\facultate\ip\proiect ip vlad\functiim.cpp
+	"functiiM.h"
+	"citiri.h"
+	<winbgim.h>
+	<fstream>
+
+1610794760 source:d:\facultate\ip\proiect ip vlad\functiiv.cpp
+	"functiiV.h"
+	"citiri.h"
+	<graphics.h>
+	<fstream>
+
+1610794409 source:d:\facultate\ip\proiect ip vlad\interfata.cpp
+	"interfata.h"
+	"citiri.h"
+	<graphics.h>
+
+1610783384 d:\facultate\ip\proiect ip vlad\interfata.h
+
+1610794391 source:d:\facultate\ip\proiect ip vlad\main.cpp
+	"interfata.h"
+	<graphics.h>
+	<MMSystem.h>
+
+1610794502 source:d:\facultate\an1sem1\ip\proiect ip vlad\citiri.cpp
+	"citiri.h"
+	<winbgim.h>
+	<fstream>
+
+1610778717 d:\facultate\an1sem1\ip\proiect ip vlad\citiri.h
+	"functiiV.h"
+	"functiiM.h"
+
+1610784331 d:\facultate\an1sem1\ip\proiect ip vlad\functiiv.h
+
+1610784013 d:\facultate\an1sem1\ip\proiect ip vlad\functiim.h
+
+1610794409 source:d:\facultate\an1sem1\ip\proiect ip vlad\interfata.cpp
+	"interfata.h"
+	"citiri.h"
+	<graphics.h>
+
+1610783384 d:\facultate\an1sem1\ip\proiect ip vlad\interfata.h
+
+1610794391 source:d:\facultate\an1sem1\ip\proiect ip vlad\main.cpp
+	"interfata.h"
+	<graphics.h>
+	<MMSystem.h>
+
